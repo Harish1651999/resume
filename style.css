@@ -1,0 +1,53 @@
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+.address {
+ line-height: 1.5;
+}
+
+h3 {
+    background-color: gray;
+    padding: 10px;
+}
+
+.table-class, 
+.table-class th,
+.table-class tr,
+.table-class td {
+    border: 1px solid black;
+}
+
+.table-class td {
+    padding: 10px;
+}
+
+.table-class th {
+    background-color: rgb(230, 230, 230);
+    padding: 10px;
+}
+
+ul {
+    line-height: 2;
+}
+
+.para {
+    padding-left: 20px;
+}
+
+.table-class1{
+    padding: 10px 20px;
+}
+
+.table-class2 tr,.table-class2 td{
+    padding: 10px 20px;
+}
+
+.inner-container{
+    margin-bottom: 40px;
+    box-shadow: 2px 2px 5px black;
+    background: white;
+    padding: 1px;
+}
